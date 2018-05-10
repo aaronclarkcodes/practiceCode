@@ -1,0 +1,6 @@
+/* Code by Perrin Clark
+Code by Aaron Clark aaronclarkcodes@gmail.com
+https://www.freecodecamp.org/aaronclarkcodes
+*/
+
+Solutions to the challenges in the jQuery section of the front end development certification by freeCodeCamp
